@@ -1,7 +1,9 @@
 import React from "react";
+import { useNavigate } from "react-router";
 
 const AppCard = ({ item }) => {
-  // Function to calculate average rating
+  const navigate = useNavigate();
+
   const calculateAvgRating = (ratings) => {
     if (!ratings || ratings.length === 0) return 0;
 
@@ -18,15 +20,22 @@ const AppCard = ({ item }) => {
 
   const avgRating = calculateAvgRating(item.ratings);
 
+  const handleDetailsPage = () => {
+    navigate(`/app-details/${item.id}`, {
+      state: item,
+    });
+  };
+
   return (
-    <div className="bg-gray-100 p-4 rounded-xl w-full shadow-sm">
+    <div
+      onClick={handleDetailsPage}
+      className="bg-gray-100 p-4 rounded-xl w-full shadow-sm hover:cursor-pointer"
+    >
       {/* Image */}
       <img src={item.image} alt={item.title} className="mb-4" />
 
       {/* Title */}
-      <h2 className="text-lg font-semibold text-gray-800 mb-4">
-        {item.title}
-      </h2>
+      <h2 className="text-lg font-semibold text-gray-800 mb-4">{item.title}</h2>
 
       {/* Footer */}
       <div className="flex justify-between items-center">

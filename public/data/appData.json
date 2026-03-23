@@ -4,7 +4,7 @@
     "image": "https://img.icons8.com/color/512/tiktok--v1.png",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
-    "description": "Short‑form video community",
+    "description": "TikTok is a global short-form video platform where creativity meets entertainment. Discover millions of trending videos across music, comedy, education, sports, and lifestyle. With powerful editing tools, effects, filters, and an extensive music library, users can easily create engaging content and share it with a worldwide audience. The intelligent recommendation algorithm learns your preferences and delivers a personalized video feed every time you open the app. Follow creators, join challenges, interact through comments and live streams, and express yourself through dynamic short videos.",
     "size": 235,
     "reviews": 210457,
     "ratingAvg": 4.4,
@@ -22,7 +22,7 @@
     "image": "https://img.icons8.com/color/512/instagram-new--v1.png",
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
-    "description": "Photo & video sharing social network",
+    "description": "Instagram is a powerful social networking platform designed for sharing photos, videos, and stories with friends and followers. Capture moments instantly with the built-in camera and enhance them using professional filters and editing tools. Explore reels, trending content, and discover new creators around the world. Send messages, start group chats, and connect through video calls. With features like Stories, Reels, Live streaming, and Shopping, Instagram offers a dynamic way to express yourself and stay connected with the global community.",
     "size": 215,
     "reviews": 912540,
     "ratingAvg": 4.3,
@@ -40,7 +40,7 @@
     "image": "https://img.icons8.com/color/512/facebook-new.png",
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
-    "description": "Social networking & sharing",
+    "description": "Facebook helps you stay connected with friends, family, and communities around the world. Share updates, photos, and videos while discovering stories and moments from people you care about. Join groups, follow pages, and explore events based on your interests. Facebook Marketplace allows users to buy and sell items locally, while live streaming and reels help creators reach wider audiences. With integrated messaging, reactions, and comments, Facebook remains one of the most comprehensive platforms for social interaction and content sharing.",
     "size": 250,
     "reviews": 814231,
     "ratingAvg": 4.2,
@@ -58,7 +58,7 @@
     "image": "https://img.icons8.com/color/512/whatsapp--v1.png",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
-    "description": "Instant messaging & calling",
+    "description": "WhatsApp Messenger is a fast, secure, and reliable messaging application used by billions worldwide. Send text messages, voice notes, photos, videos, and documents instantly using your internet connection. Enjoy high-quality voice and video calls, group chats, and status updates with friends and family. Built with end-to-end encryption, WhatsApp ensures your conversations remain private and secure. Stay connected anytime, anywhere with a simple and intuitive messaging experience.",
     "size": 160,
     "reviews": 652340,
     "ratingAvg": 4.7,
@@ -76,7 +76,7 @@
     "image": "https://img.icons8.com/color/512/youtube-play.png",
     "title": "YouTube",
     "companyName": "Google LLC",
-    "description": "Video streaming platform",
+    "description": "YouTube is the world's largest video streaming platform where you can watch, share, and upload videos on virtually any topic. Discover music videos, gaming streams, educational tutorials, podcasts, and live broadcasts from creators across the globe. Subscribe to channels you love, create playlists, and receive personalized recommendations based on your interests. With features like YouTube Shorts, live streaming, and offline viewing, YouTube delivers endless entertainment and learning opportunities.",
     "size": 280,
     "reviews": 1645000,
     "ratingAvg": 4.8,
@@ -94,7 +94,7 @@
     "image": "https://images.icon-icons.com/1254/PNG/512/1495494704-jd31_84487.png",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
-    "description": "Multimedia messaging app",
+    "description": "Snapchat is a multimedia messaging platform designed for fast and fun communication. Send photos and videos that disappear after being viewed, create creative snaps with augmented reality filters and lenses, and share moments through Stories. Discover trending content from creators and media publishers worldwide. Stay connected with friends using instant messaging, voice and video calls, and Snap Map to see what people are sharing around the world.",
     "size": 140,
     "reviews": 522870,
     "ratingAvg": 4.3,
@@ -107,12 +107,13 @@
       { "name": "5 star", "count": 323370 }
     ]
   },
+
   {
     "id": 7,
     "image": "https://img.icons8.com/color/512/telegram-app.png",
     "title": "Telegram",
-    "companyName": "Telegram FZ‑LLC",
-    "description": "Secure messaging app",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Telegram is a fast and secure messaging platform designed for privacy and speed. Send unlimited messages, photos, videos, and files of any type while enjoying powerful group chats and broadcast channels. With cloud-based storage, your messages are accessible across all devices instantly. Telegram also offers secret chats with end-to-end encryption, customizable themes, bots, and powerful automation features that enhance productivity and communication.",
     "size": 165,
     "reviews": 482210,
     "ratingAvg": 4.5,
@@ -125,12 +126,13 @@
       { "name": "5 star", "count": 321810 }
     ]
   },
+
   {
     "id": 8,
     "image": "https://img.icons8.com/color/512/spotify--v1.png",
     "title": "Spotify",
     "companyName": "Spotify Ltd.",
-    "description": "Music streaming service",
+    "description": "Spotify is a leading music streaming service that gives you instant access to millions of songs, podcasts, and playlists from artists around the world. Discover new music, create personalized playlists, and follow your favorite artists to stay updated with their latest releases. Enjoy high-quality streaming, offline listening, and curated playlists tailored to your tastes. Whether you're relaxing, working, or exercising, Spotify provides the perfect soundtrack for every moment.",
     "size": 180,
     "reviews": 1245780,
     "ratingAvg": 4.5,
@@ -143,12 +145,13 @@
       { "name": "5 star", "count": 603000 }
     ]
   },
+
   {
     "id": 9,
     "image": "https://img.icons8.com/color/512/pinterest--v1.png",
     "title": "Pinterest",
     "companyName": "Pinterest, Inc.",
-    "description": "Ideas & inspiration boards",
+    "description": "Pinterest is a visual discovery platform where ideas come to life. Explore millions of pins related to fashion, home decor, recipes, travel, and DIY projects. Save your favorite ideas to personalized boards and organize inspiration for future projects. Follow creators and discover trending designs, tutorials, and lifestyle inspiration from around the world. Pinterest makes it easy to turn your ideas into reality.",
     "size": 170,
     "reviews": 321560,
     "ratingAvg": 4.6,
@@ -161,12 +164,13 @@
       { "name": "5 star", "count": 152600 }
     ]
   },
+
   {
     "id": 10,
     "image": "https://img.icons8.com/color/512/linkedin.png",
     "title": "LinkedIn",
     "companyName": "Microsoft Corp.",
-    "description": "Professional networking",
+    "description": "LinkedIn is the world's largest professional networking platform designed to help you build meaningful career connections. Create a professional profile, showcase your skills and experience, and connect with colleagues and industry leaders. Discover job opportunities, follow companies, and stay updated with the latest business insights. With built-in messaging, learning courses, and career tools, LinkedIn empowers professionals to grow and succeed in their careers.",
     "size": 190,
     "reviews": 275340,
     "ratingAvg": 4.2,
@@ -179,12 +183,13 @@
       { "name": "5 star", "count": 104140 }
     ]
   },
+
   {
     "id": 11,
     "image": "https://img.icons8.com/color/512/amazon.png",
     "title": "Amazon Shopping",
     "companyName": "Amazon.com, Inc.",
-    "description": "eCommerce marketplace",
+    "description": "Amazon Shopping allows you to browse millions of products across categories including electronics, fashion, home goods, and more. Compare prices, read verified customer reviews, and track orders in real time. With fast shipping options and secure payment methods, Amazon makes online shopping simple and convenient. Discover deals, save items to your wishlist, and shop confidently from one of the world's largest online marketplaces.",
     "size": 245,
     "reviews": 652480,
     "ratingAvg": 4.5,
@@ -197,12 +202,13 @@
       { "name": "5 star", "count": 501880 }
     ]
   },
+
   {
     "id": 12,
     "image": "https://techcrunch.com/wp-content/uploads/2018/09/uber_app_icon.jpg",
     "title": "Uber",
     "companyName": "Uber Technologies, Inc.",
-    "description": "Ride‑hailing service",
+    "description": "Uber is a reliable ride-hailing platform that connects passengers with nearby drivers in minutes. Request a ride, track your driver in real time, and reach your destination safely and comfortably. Choose from multiple ride options depending on your needs and budget. With built-in safety features, upfront pricing, and seamless payment methods, Uber provides a convenient transportation solution in cities worldwide.",
     "size": 205,
     "reviews": 289560,
     "ratingAvg": 4.4,
@@ -214,221 +220,6 @@
       { "name": "4 star", "count": 76300 },
       { "name": "5 star", "count": 199760 }
     ]
-  },
-  {
-    "id": 13,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhFfeddzFVQJMZP5lKAuTGpG2azCOUbiKBiroSih-j4JpArFBLPXX8t5uonCCeA7Yqk7nC6lUJW-MFoZcdljl3sUpXbiGlrzW4VfUL6A8&s=10",
-    "title": "Candy Crush Saga",
-    "companyName": "King.com",
-    "description": "Popular puzzle game",
-    "size": 150,
-    "reviews": 432450,
-    "ratingAvg": 4.6,
-    "downloads": "500M",
-    "ratings": [
-      { "name": "1 star", "count": 11200 },
-      { "name": "2 star", "count": 6400 },
-      { "name": "3 star", "count": 9500 },
-      { "name": "4 star", "count": 87000 },
-      { "name": "5 star", "count": 330000 }
-    ]
-  },
-  {
-    "id": 14,
-    "image": "https://img.icons8.com/color/512/zoom.png",
-    "title": "Zoom",
-    "companyName": "Zoom Video Communications",
-    "description": "Video conferencing",
-    "size": 240,
-    "reviews": 389120,
-    "ratingAvg": 4.2,
-    "downloads": "180M",
-    "ratings": [
-      { "name": "1 star", "count": 8900 },
-      { "name": "2 star", "count": 5300 },
-      { "name": "3 star", "count": 9700 },
-      { "name": "4 star", "count": 82000 },
-      { "name": "5 star", "count": 212220 }
-    ]
-  },
-  {
-    "id": 15,
-    "image": "https://img.icons8.com/color/512/google-drive.png",
-    "title": "Google Drive",
-    "companyName": "Google LLC",
-    "description": "Cloud storage & files",
-    "size": 205,
-    "reviews": 492560,
-    "ratingAvg": 4.6,
-    "downloads": "375M",
-    "ratings": [
-      { "name": "1 star", "count": 4800 },
-      { "name": "2 star", "count": 3100 },
-      { "name": "3 star", "count": 7200 },
-      { "name": "4 star", "count": 84000 },
-      { "name": "5 star", "count": 280460 }
-    ]
-  },
-  {
-    "id": 16,
-    "image": "https://img.icons8.com/color/512/google-maps.png",
-    "title": "Google Maps",
-    "companyName": "Google LLC",
-    "description": "Navigation & maps",
-    "size": 230,
-    "reviews": 842110,
-    "ratingAvg": 4.7,
-    "downloads": "900M",
-    "ratings": [
-      { "name": "1 star", "count": 10200 },
-      { "name": "2 star", "count": 6200 },
-      { "name": "3 star", "count": 10100 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 501510 }
-    ]
-  },
-  {
-    "id": 17,
-    "image": "https://img.icons8.com/color/512/reddit.png",
-    "title": "Reddit",
-    "companyName": "Reddit Inc.",
-    "description": "Community & discussions",
-    "size": 160,
-    "reviews": 312450,
-    "ratingAvg": 4.4,
-    "downloads": "190M",
-    "ratings": [
-      { "name": "1 star", "count": 8400 },
-      { "name": "2 star", "count": 4200 },
-      { "name": "3 star", "count": 9100 },
-      { "name": "4 star", "count": 56000 },
-      { "name": "5 star", "count": 153750 }
-    ]
-  },
-  {
-    "id": 18,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe03T5XLHpzVKt8UOr_udDd-nVIYmxZjE6Sw&s",
-    "title": "CapCut",
-    "companyName": "Bytedance Pte. Ltd.",
-    "description": "Video editing tool",
-    "size": 190,
-    "reviews": 742340,
-    "ratingAvg": 4.6,
-    "downloads": "361M",
-    "ratings": [
-      { "name": "1 star", "count": 9400 },
-      { "name": "2 star", "count": 5800 },
-      { "name": "3 star", "count": 9100 },
-      { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 601040 }
-    ]
-  },
-  {
-    "id": 19,
-    "image": "https://img.icons8.com/color/512/shop--v1.png",
-    "title": "Temu",
-    "companyName": "Temu Inc.",
-    "description": "Shopping & deals app",
-    "size": 210,
-    "reviews": 312560,
-    "ratingAvg": 4.1,
-    "downloads": "438M",
-    "ratings": [
-      { "name": "1 star", "count": 15000 },
-      { "name": "2 star", "count": 7200 },
-      { "name": "3 star", "count": 16000 },
-      { "name": "4 star", "count": 98000 },
-      { "name": "5 star", "count": 210360 }
-    ]
-  },
-  {
-    "id": 20,
-    "image": "https://img.icons8.com/color/512/facebook-messenger.png",
-    "title": "Messenger",
-    "companyName": "Meta Platforms, Inc.",
-    "description": "Instant messaging & calls",
-    "size": 180,
-    "reviews": 432150,
-    "ratingAvg": 4.3,
-    "downloads": "265M",
-    "ratings": [
-      { "name": "1 star", "count": 8100 },
-      { "name": "2 star", "count": 5300 },
-      { "name": "3 star", "count": 12000 },
-      { "name": "4 star", "count": 77000 },
-      { "name": "5 star", "count": 172750 }
-    ]
-  },
-  {
-    "id": 21,
-    "image": "https://img.icons8.com/color/512/slack.png",
-    "title": "Slack",
-    "companyName": "Slack Technologies, Inc.",
-    "description": "Team communication",
-    "size": 155,
-    "reviews": 308450,
-    "ratingAvg": 4.3,
-    "downloads": "155M",
-    "ratings": [
-      { "name": "1 star", "count": 5800 },
-      { "name": "2 star", "count": 3300 },
-      { "name": "3 star", "count": 6700 },
-      { "name": "4 star", "count": 59000 },
-      { "name": "5 star", "count": 181650 }
-    ]
-  },
-  {
-    "id": 22,
-    "image": "https://img.icons8.com/color/512/subway-surfers.png",
-    "title": "Subway Surfers",
-    "companyName": "Kiloo",
-    "description": "Endless runner game",
-    "size": 150,
-    "reviews": 512780,
-    "ratingAvg": 4.4,
-    "downloads": "300M",
-    "ratings": [
-      { "name": "1 star", "count": 6500 },
-      { "name": "2 star", "count": 3900 },
-      { "name": "3 star", "count": 9200 },
-      { "name": "4 star", "count": 70000 },
-      { "name": "5 star", "count": 384380 }
-    ]
-  },
-  {
-    "id": 23,
-    "image": "https://img.icons8.com/color/512/discord.png",
-    "title": "Discord",
-    "companyName": "Discord Inc.",
-    "description": "Chat & voice community",
-    "size": 185,
-    "reviews": 600230,
-    "ratingAvg": 4.5,
-    "downloads": "280M",
-    "ratings": [
-      { "name": "1 star", "count": 8700 },
-      { "name": "2 star", "count": 5100 },
-      { "name": "3 star", "count": 9500 },
-      { "name": "4 star", "count": 95000 },
-      { "name": "5 star", "count": 390930 }
-    ]
-  },
-  {
-    "id": 24,
-    "image": "https://img.icons8.com/color/512/paypal.png",
-    "title": "PayPal",
-    "companyName": "PayPal Holdings, Inc.",
-    "description": "Secure digital payments",
-    "size": 195,
-    "reviews": 402100,
-    "ratingAvg": 4.6,
-    "downloads": "200M",
-    "ratings": [
-      { "name": "1 star", "count": 6200 },
-      { "name": "2 star", "count": 4100 },
-      { "name": "3 star", "count": 7400 },
-      { "name": "4 star", "count": 78000 },
-      { "name": "5 star", "count": 237400 }
-    ]
   }
+
 ]

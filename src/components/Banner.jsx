@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router";
 
 const Banner = () => {
   return (
@@ -18,12 +19,12 @@ const Banner = () => {
         an impact.
       </p>
       <div className="flex items-center justify-center gap-5 my-10">
-        <button className="btn">
+        <Link to="https://play.google.com/store/apps?hl=en" className="btn" target="_blank">
           <img src="/assets/playstore.png" alt="" /> Google Play
-        </button>
-        <button className="btn">
+        </Link>
+        <Link to="https://www.apple.com/app-store/" className="btn" target="_blank">
           <img src="/assets/appStore.png" alt="" /> App Store
-        </button>
+        </Link>
       </div>
       <img src="/assets/hero.png" className="mx-auto" alt="" />
     </div>
