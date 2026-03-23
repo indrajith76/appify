@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.icons8.com/color/512/tiktok--v1.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "description": "Short‑form video community",
+    "size": 235,
+    "reviews": 210457,
+    "ratingAvg": 4.4,
+    "downloads": "825.5M",
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 8600 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 61000 },
+      { "name": "5 star", "count": 117857 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://img.icons8.com/color/512/instagram-new--v1.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Photo & video sharing social network",
+    "size": 215,
+    "reviews": 912540,
+    "ratingAvg": 4.3,
+    "downloads": "759M",
+    "ratings": [
+      { "name": "1 star", "count": 10500 },
+      { "name": "2 star", "count": 7400 },
+      { "name": "3 star", "count": 13200 },
+      { "name": "4 star", "count": 420000 },
+      { "name": "5 star", "count": 281440 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://img.icons8.com/color/512/facebook-new.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Social networking & sharing",
+    "size": 250,
+    "reviews": 814231,
+    "ratingAvg": 4.2,
+    "downloads": "571M",
+    "ratings": [
+      { "name": "1 star", "count": 15200 },
+      { "name": "2 star", "count": 9400 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 238900 },
+      { "name": "5 star", "count": 532731 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://img.icons8.com/color/512/whatsapp--v1.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Instant messaging & calling",
+    "size": 160,
+    "reviews": 652340,
+    "ratingAvg": 4.7,
+    "downloads": "527M",
+    "ratings": [
+      { "name": "1 star", "count": 8900 },
+      { "name": "2 star", "count": 5300 },
+      { "name": "3 star", "count": 9200 },
+      { "name": "4 star", "count": 202000 },
+      { "name": "5 star", "count": 427940 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://img.icons8.com/color/512/youtube-play.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "Video streaming platform",
+    "size": 280,
+    "reviews": 1645000,
+    "ratingAvg": 4.8,
+    "downloads": "1000M",
+    "ratings": [
+      { "name": "1 star", "count": 72000 },
+      { "name": "2 star", "count": 39000 },
+      { "name": "3 star", "count": 84000 },
+      { "name": "4 star", "count": 480000 },
+      { "name": "5 star", "count": 866000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.icon-icons.com/1254/PNG/512/1495494704-jd31_84487.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Multimedia messaging app",
+    "size": 140,
+    "reviews": 522870,
+    "ratingAvg": 4.3,
+    "downloads": "302M",
+    "ratings": [
+      { "name": "1 star", "count": 8100 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 7900 },
+      { "name": "4 star", "count": 185000 },
+      { "name": "5 star", "count": 323370 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://img.icons8.com/color/512/telegram-app.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ‑LLC",
+    "description": "Secure messaging app",
+    "size": 165,
+    "reviews": 482210,
+    "ratingAvg": 4.5,
+    "downloads": "409M",
+    "ratings": [
+      { "name": "1 star", "count": 7700 },
+      { "name": "2 star", "count": 4300 },
+      { "name": "3 star", "count": 8400 },
+      { "name": "4 star", "count": 146000 },
+      { "name": "5 star", "count": 321810 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://img.icons8.com/color/512/spotify--v1.png",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "description": "Music streaming service",
+    "size": 180,
+    "reviews": 1245780,
+    "ratingAvg": 4.5,
+    "downloads": "239M",
+    "ratings": [
+      { "name": "1 star", "count": 52000 },
+      { "name": "2 star", "count": 31000 },
+      { "name": "3 star", "count": 87000 },
+      { "name": "4 star", "count": 470000 },
+      { "name": "5 star", "count": 603000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://img.icons8.com/color/512/pinterest--v1.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Ideas & inspiration boards",
+    "size": 170,
+    "reviews": 321560,
+    "ratingAvg": 4.6,
+    "downloads": "210M",
+    "ratings": [
+      { "name": "1 star", "count": 7500 },
+      { "name": "2 star", "count": 4300 },
+      { "name": "3 star", "count": 8100 },
+      { "name": "4 star", "count": 54000 },
+      { "name": "5 star", "count": 152600 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://img.icons8.com/color/512/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corp.",
+    "description": "Professional networking",
+    "size": 190,
+    "reviews": 275340,
+    "ratingAvg": 4.2,
+    "downloads": "160M",
+    "ratings": [
+      { "name": "1 star", "count": 9700 },
+      { "name": "2 star", "count": 6400 },
+      { "name": "3 star", "count": 11800 },
+      { "name": "4 star", "count": 52000 },
+      { "name": "5 star", "count": 104140 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://img.icons8.com/color/512/amazon.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon.com, Inc.",
+    "description": "eCommerce marketplace",
+    "size": 245,
+    "reviews": 652480,
+    "ratingAvg": 4.5,
+    "downloads": "420M",
+    "ratings": [
+      { "name": "1 star", "count": 8300 },
+      { "name": "2 star", "count": 5200 },
+      { "name": "3 star", "count": 9100 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 501880 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://techcrunch.com/wp-content/uploads/2018/09/uber_app_icon.jpg",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "description": "Ride‑hailing service",
+    "size": 205,
+    "reviews": 289560,
+    "ratingAvg": 4.4,
+    "downloads": "360M",
+    "ratings": [
+      { "name": "1 star", "count": 5200 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 6100 },
+      { "name": "4 star", "count": 76300 },
+      { "name": "5 star", "count": 199760 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhFfeddzFVQJMZP5lKAuTGpG2azCOUbiKBiroSih-j4JpArFBLPXX8t5uonCCeA7Yqk7nC6lUJW-MFoZcdljl3sUpXbiGlrzW4VfUL6A8&s=10",
+    "title": "Candy Crush Saga",
+    "companyName": "King.com",
+    "description": "Popular puzzle game",
+    "size": 150,
+    "reviews": 432450,
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 11200 },
+      { "name": "2 star", "count": 6400 },
+      { "name": "3 star", "count": 9500 },
+      { "name": "4 star", "count": 87000 },
+      { "name": "5 star", "count": 330000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://img.icons8.com/color/512/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Video conferencing",
+    "size": 240,
+    "reviews": 389120,
+    "ratingAvg": 4.2,
+    "downloads": "180M",
+    "ratings": [
+      { "name": "1 star", "count": 8900 },
+      { "name": "2 star", "count": 5300 },
+      { "name": "3 star", "count": 9700 },
+      { "name": "4 star", "count": 82000 },
+      { "name": "5 star", "count": 212220 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://img.icons8.com/color/512/google-drive.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "description": "Cloud storage & files",
+    "size": 205,
+    "reviews": 492560,
+    "ratingAvg": 4.6,
+    "downloads": "375M",
+    "ratings": [
+      { "name": "1 star", "count": 4800 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 7200 },
+      { "name": "4 star", "count": 84000 },
+      { "name": "5 star", "count": 280460 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://img.icons8.com/color/512/google-maps.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Navigation & maps",
+    "size": 230,
+    "reviews": 842110,
+    "ratingAvg": 4.7,
+    "downloads": "900M",
+    "ratings": [
+      { "name": "1 star", "count": 10200 },
+      { "name": "2 star", "count": 6200 },
+      { "name": "3 star", "count": 10100 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 501510 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://img.icons8.com/color/512/reddit.png",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "description": "Community & discussions",
+    "size": 160,
+    "reviews": 312450,
+    "ratingAvg": 4.4,
+    "downloads": "190M",
+    "ratings": [
+      { "name": "1 star", "count": 8400 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 9100 },
+      { "name": "4 star", "count": 56000 },
+      { "name": "5 star", "count": 153750 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe03T5XLHpzVKt8UOr_udDd-nVIYmxZjE6Sw&s",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "description": "Video editing tool",
+    "size": 190,
+    "reviews": 742340,
+    "ratingAvg": 4.6,
+    "downloads": "361M",
+    "ratings": [
+      { "name": "1 star", "count": 9400 },
+      { "name": "2 star", "count": 5800 },
+      { "name": "3 star", "count": 9100 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 601040 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://img.icons8.com/color/512/shop--v1.png",
+    "title": "Temu",
+    "companyName": "Temu Inc.",
+    "description": "Shopping & deals app",
+    "size": 210,
+    "reviews": 312560,
+    "ratingAvg": 4.1,
+    "downloads": "438M",
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 7200 },
+      { "name": "3 star", "count": 16000 },
+      { "name": "4 star", "count": 98000 },
+      { "name": "5 star", "count": 210360 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://img.icons8.com/color/512/facebook-messenger.png",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Instant messaging & calls",
+    "size": 180,
+    "reviews": 432150,
+    "ratingAvg": 4.3,
+    "downloads": "265M",
+    "ratings": [
+      { "name": "1 star", "count": 8100 },
+      { "name": "2 star", "count": 5300 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 77000 },
+      { "name": "5 star", "count": 172750 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://img.icons8.com/color/512/slack.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies, Inc.",
+    "description": "Team communication",
+    "size": 155,
+    "reviews": 308450,
+    "ratingAvg": 4.3,
+    "downloads": "155M",
+    "ratings": [
+      { "name": "1 star", "count": 5800 },
+      { "name": "2 star", "count": 3300 },
+      { "name": "3 star", "count": 6700 },
+      { "name": "4 star", "count": 59000 },
+      { "name": "5 star", "count": 181650 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://img.icons8.com/color/512/subway-surfers.png",
+    "title": "Subway Surfers",
+    "companyName": "Kiloo",
+    "description": "Endless runner game",
+    "size": 150,
+    "reviews": 512780,
+    "ratingAvg": 4.4,
+    "downloads": "300M",
+    "ratings": [
+      { "name": "1 star", "count": 6500 },
+      { "name": "2 star", "count": 3900 },
+      { "name": "3 star", "count": 9200 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 384380 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://img.icons8.com/color/512/discord.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Chat & voice community",
+    "size": 185,
+    "reviews": 600230,
+    "ratingAvg": 4.5,
+    "downloads": "280M",
+    "ratings": [
+      { "name": "1 star", "count": 8700 },
+      { "name": "2 star", "count": 5100 },
+      { "name": "3 star", "count": 9500 },
+      { "name": "4 star", "count": 95000 },
+      { "name": "5 star", "count": 390930 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://img.icons8.com/color/512/paypal.png",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings, Inc.",
+    "description": "Secure digital payments",
+    "size": 195,
+    "reviews": 402100,
+    "ratingAvg": 4.6,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 6200 },
+      { "name": "2 star", "count": 4100 },
+      { "name": "3 star", "count": 7400 },
+      { "name": "4 star", "count": 78000 },
+      { "name": "5 star", "count": 237400 }
+    ]
+  }
+]
