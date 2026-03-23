@@ -3,6 +3,7 @@ import AppCard from "../../components/AppCard";
 import { FaSearch } from "react-icons/fa";
 
 const Apps = () => {
+  const [loading, setLoading] = useState(true);
   const [appData, setAppData] = useState([]);
   const [searchData, setSearchData] = useState([]);
 
@@ -12,6 +13,7 @@ const Apps = () => {
       .then((data) => {
         setAppData(data);
         setSearchData(data);
+        setLoading(false);
       });
   }, []);
 
@@ -19,9 +21,16 @@ const Apps = () => {
     const searchedData = appData.filter((item) =>
       item.title.toLowerCase().includes(text.toLowerCase()),
     );
-
     setSearchData(searchedData);
   };
+
+  if (loading) {
+    return (
+      <div className="flex justify-center items-center h-[60vh]">
+        <span className="loading loading-spinner text-primary loading-xl"></span>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col">

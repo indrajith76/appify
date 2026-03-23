@@ -19,13 +19,13 @@ const Banner = () => {
       </p>
       <div className="flex items-center justify-center gap-5 my-10">
         <button className="btn">
-          <img src="/public/assets/playstore.png" alt="" /> Google Play
+          <img src="/assets/playstore.png" alt="" /> Google Play
         </button>
         <button className="btn">
-          <img src="/public/assets/appStore.png" alt="" /> App Store
+          <img src="/assets/appStore.png" alt="" /> App Store
         </button>
       </div>
-      <img src="/public/assets/hero.png" className="mx-auto" alt="" />
+      <img src="/assets/hero.png" className="mx-auto" alt="" />
     </div>
   );
 };
