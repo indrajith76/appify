@@ -1,10 +1,18 @@
 import React from "react";
 import { useLocation } from "react-router";
+import AppChart from "./AppChart";
 
 const AppsDetails = () => {
   const location = useLocation();
-  const { title, companyName, downloads, ratings, reviews, image,description } =
-    location.state;
+  const {
+    title,
+    companyName,
+    downloads,
+    ratings,
+    reviews,
+    image,
+    description,
+  } = location.state;
 
   const calculateAvgRating = (ratings) => {
     if (!ratings || ratings.length === 0) return 0;
@@ -78,11 +86,13 @@ const AppsDetails = () => {
         </div>
       </div>
 
+      <AppChart data={ratings} />
+
       <div className="container mx-auto  py-10 border-t border-gray-300">
-        <h4 className="text-2xl font-semibold text-[#001931] mb-6">Description</h4>
-        <p className="text-[#627382] text-md text-justify">
-          {description}
-        </p>
+        <h4 className="text-2xl font-semibold text-[#001931] mb-6">
+          Description
+        </h4>
+        <p className="text-[#627382] text-md text-justify">{description}</p>
       </div>
     </section>
   );

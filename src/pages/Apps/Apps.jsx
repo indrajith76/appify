@@ -56,6 +56,13 @@ const Apps = () => {
         </label>
       </div>
 
+      {!searchData.length && (
+        <div className="flex justify-center flex-col items-center mb-10">
+          <img className="w-1/5" src="/public/assets/appNotFound.jpg" alt="" />
+          <h5 className="text-4xl">No App Found!</h5>
+        </div>
+      )}
+
       <div className="container mx-auto grid grid-cols-4 gap-5 mb-10">
         {searchData.map((item, idx) => (
           <AppCard item={item} key={idx} />

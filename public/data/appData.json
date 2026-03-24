@@ -4,7 +4,7 @@
     "image": "https://img.icons8.com/color/512/tiktok--v1.png",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
-    "description": "TikTok is a global short-form video platform where creativity meets entertainment. Discover millions of trending videos across music, comedy, education, sports, and lifestyle. With powerful editing tools, effects, filters, and an extensive music library, users can easily create engaging content and share it with a worldwide audience. The intelligent recommendation algorithm learns your preferences and delivers a personalized video feed every time you open the app. Follow creators, join challenges, interact through comments and live streams, and express yourself through dynamic short videos.",
+    "description": "TikTok is a global short-form video platform where creativity meets entertainment. Explore millions of trending videos across categories including music, comedy, education, sports, lifestyle, and technology. With powerful editing tools, filters, effects, and a vast music library, creators can easily produce engaging content. TikTok’s advanced recommendation algorithm learns your interests and delivers a personalized feed filled with content you'll love. Join global challenges, follow your favorite creators, interact through comments and live streams, and share your creativity with the world.",
     "size": 235,
     "reviews": 210457,
     "ratingAvg": 4.4,
@@ -22,7 +22,7 @@
     "image": "https://img.icons8.com/color/512/instagram-new--v1.png",
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
-    "description": "Instagram is a powerful social networking platform designed for sharing photos, videos, and stories with friends and followers. Capture moments instantly with the built-in camera and enhance them using professional filters and editing tools. Explore reels, trending content, and discover new creators around the world. Send messages, start group chats, and connect through video calls. With features like Stories, Reels, Live streaming, and Shopping, Instagram offers a dynamic way to express yourself and stay connected with the global community.",
+    "description": "Instagram is a dynamic social networking platform designed for sharing photos, videos, and stories with friends and followers around the world. Capture life's moments instantly and enhance them with professional filters and editing tools. Explore trending reels, discover new creators, and stay updated with the latest content tailored to your interests. Send messages, start group chats, go live with followers, and shop directly from your favorite brands. Instagram combines creativity, communication, and discovery in one powerful social experience.",
     "size": 215,
     "reviews": 912540,
     "ratingAvg": 4.3,
@@ -40,7 +40,7 @@
     "image": "https://img.icons8.com/color/512/facebook-new.png",
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
-    "description": "Facebook helps you stay connected with friends, family, and communities around the world. Share updates, photos, and videos while discovering stories and moments from people you care about. Join groups, follow pages, and explore events based on your interests. Facebook Marketplace allows users to buy and sell items locally, while live streaming and reels help creators reach wider audiences. With integrated messaging, reactions, and comments, Facebook remains one of the most comprehensive platforms for social interaction and content sharing.",
+    "description": "Facebook is one of the world's largest social networking platforms, helping people connect, share, and build communities. Share photos, videos, updates, and stories while discovering content from friends and public pages. Join groups, follow interests, attend events, and explore Facebook Marketplace to buy and sell items locally. With live streaming, reels, messaging integration, and community features, Facebook offers a complete social experience designed to keep you connected with the world.",
     "size": 250,
     "reviews": 814231,
     "ratingAvg": 4.2,
@@ -58,7 +58,7 @@
     "image": "https://img.icons8.com/color/512/whatsapp--v1.png",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
-    "description": "WhatsApp Messenger is a fast, secure, and reliable messaging application used by billions worldwide. Send text messages, voice notes, photos, videos, and documents instantly using your internet connection. Enjoy high-quality voice and video calls, group chats, and status updates with friends and family. Built with end-to-end encryption, WhatsApp ensures your conversations remain private and secure. Stay connected anytime, anywhere with a simple and intuitive messaging experience.",
+    "description": "WhatsApp Messenger is a fast, secure, and reliable messaging application used by billions of people around the globe. Send text messages, voice notes, photos, videos, and documents instantly using your internet connection. Make high-quality voice and video calls, create group chats, and share updates through status features. Built with end-to-end encryption, WhatsApp ensures that your personal conversations remain private and secure at all times.",
     "size": 160,
     "reviews": 652340,
     "ratingAvg": 4.7,
@@ -76,7 +76,7 @@
     "image": "https://img.icons8.com/color/512/youtube-play.png",
     "title": "YouTube",
     "companyName": "Google LLC",
-    "description": "YouTube is the world's largest video streaming platform where you can watch, share, and upload videos on virtually any topic. Discover music videos, gaming streams, educational tutorials, podcasts, and live broadcasts from creators across the globe. Subscribe to channels you love, create playlists, and receive personalized recommendations based on your interests. With features like YouTube Shorts, live streaming, and offline viewing, YouTube delivers endless entertainment and learning opportunities.",
+    "description": "YouTube is the world's largest video streaming platform where users can watch, upload, and share videos across countless categories. Discover music videos, gaming streams, educational tutorials, podcasts, and live broadcasts from creators worldwide. Subscribe to channels, build playlists, and receive personalized recommendations powered by advanced algorithms. With YouTube Shorts, live streaming, and offline viewing options, YouTube offers endless entertainment and learning opportunities for everyone.",
     "size": 280,
     "reviews": 1645000,
     "ratingAvg": 4.8,
@@ -94,7 +94,7 @@
     "image": "https://images.icon-icons.com/1254/PNG/512/1495494704-jd31_84487.png",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
-    "description": "Snapchat is a multimedia messaging platform designed for fast and fun communication. Send photos and videos that disappear after being viewed, create creative snaps with augmented reality filters and lenses, and share moments through Stories. Discover trending content from creators and media publishers worldwide. Stay connected with friends using instant messaging, voice and video calls, and Snap Map to see what people are sharing around the world.",
+    "description": "Snapchat is a multimedia messaging platform designed for fun and fast communication. Send photos and videos that disappear after being viewed, create snaps with augmented reality lenses and filters, and share moments through Stories. Discover trending content from creators and media partners while chatting instantly with friends. With Snap Map, video calls, and interactive messaging tools, Snapchat offers a unique way to connect visually.",
     "size": 140,
     "reviews": 522870,
     "ratingAvg": 4.3,
@@ -107,13 +107,12 @@
       { "name": "5 star", "count": 323370 }
     ]
   },
-
   {
     "id": 7,
     "image": "https://img.icons8.com/color/512/telegram-app.png",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
-    "description": "Telegram is a fast and secure messaging platform designed for privacy and speed. Send unlimited messages, photos, videos, and files of any type while enjoying powerful group chats and broadcast channels. With cloud-based storage, your messages are accessible across all devices instantly. Telegram also offers secret chats with end-to-end encryption, customizable themes, bots, and powerful automation features that enhance productivity and communication.",
+    "description": "Telegram is a powerful cloud-based messaging application known for its speed, security, and advanced features. Send messages, photos, videos, and files of any type instantly across multiple devices. Create massive group chats and broadcast channels to communicate with thousands of members. Telegram offers secret chats with end-to-end encryption, customizable themes, bots, and automation tools that make communication flexible and efficient.",
     "size": 165,
     "reviews": 482210,
     "ratingAvg": 4.5,
@@ -126,13 +125,12 @@
       { "name": "5 star", "count": 321810 }
     ]
   },
-
   {
     "id": 8,
     "image": "https://img.icons8.com/color/512/spotify--v1.png",
     "title": "Spotify",
     "companyName": "Spotify Ltd.",
-    "description": "Spotify is a leading music streaming service that gives you instant access to millions of songs, podcasts, and playlists from artists around the world. Discover new music, create personalized playlists, and follow your favorite artists to stay updated with their latest releases. Enjoy high-quality streaming, offline listening, and curated playlists tailored to your tastes. Whether you're relaxing, working, or exercising, Spotify provides the perfect soundtrack for every moment.",
+    "description": "Spotify gives you instant access to millions of songs, podcasts, and playlists from artists across the globe. Discover new music, create personalized playlists, and follow your favorite artists to stay updated with their latest releases. Enjoy high-quality streaming, offline listening, and curated recommendations tailored to your listening habits. Whether you're relaxing, studying, or working out, Spotify delivers the perfect soundtrack for every moment.",
     "size": 180,
     "reviews": 1245780,
     "ratingAvg": 4.5,
@@ -145,13 +143,12 @@
       { "name": "5 star", "count": 603000 }
     ]
   },
-
   {
     "id": 9,
     "image": "https://img.icons8.com/color/512/pinterest--v1.png",
     "title": "Pinterest",
     "companyName": "Pinterest, Inc.",
-    "description": "Pinterest is a visual discovery platform where ideas come to life. Explore millions of pins related to fashion, home decor, recipes, travel, and DIY projects. Save your favorite ideas to personalized boards and organize inspiration for future projects. Follow creators and discover trending designs, tutorials, and lifestyle inspiration from around the world. Pinterest makes it easy to turn your ideas into reality.",
+    "description": "Pinterest is a visual discovery platform where users explore ideas related to fashion, home decor, recipes, travel, design, and lifestyle. Save inspiring images and videos to personalized boards so you can organize ideas for future projects. Follow creators and discover trending content tailored to your interests. Pinterest helps you turn inspiration into real-world projects.",
     "size": 170,
     "reviews": 321560,
     "ratingAvg": 4.6,
@@ -164,13 +161,12 @@
       { "name": "5 star", "count": 152600 }
     ]
   },
-
   {
     "id": 10,
     "image": "https://img.icons8.com/color/512/linkedin.png",
     "title": "LinkedIn",
     "companyName": "Microsoft Corp.",
-    "description": "LinkedIn is the world's largest professional networking platform designed to help you build meaningful career connections. Create a professional profile, showcase your skills and experience, and connect with colleagues and industry leaders. Discover job opportunities, follow companies, and stay updated with the latest business insights. With built-in messaging, learning courses, and career tools, LinkedIn empowers professionals to grow and succeed in their careers.",
+    "description": "LinkedIn is the world's largest professional networking platform, designed to help professionals connect, grow, and succeed in their careers. Create a professional profile, highlight your skills and achievements, and connect with colleagues and industry leaders. Discover job opportunities, follow companies, and access business insights. LinkedIn also provides learning resources and networking tools to help you build a successful career.",
     "size": 190,
     "reviews": 275340,
     "ratingAvg": 4.2,
@@ -183,13 +179,12 @@
       { "name": "5 star", "count": 104140 }
     ]
   },
-
   {
     "id": 11,
     "image": "https://img.icons8.com/color/512/amazon.png",
     "title": "Amazon Shopping",
     "companyName": "Amazon.com, Inc.",
-    "description": "Amazon Shopping allows you to browse millions of products across categories including electronics, fashion, home goods, and more. Compare prices, read verified customer reviews, and track orders in real time. With fast shipping options and secure payment methods, Amazon makes online shopping simple and convenient. Discover deals, save items to your wishlist, and shop confidently from one of the world's largest online marketplaces.",
+    "description": "Amazon Shopping allows users to browse millions of products across categories including electronics, fashion, books, and home goods. Compare prices, read verified reviews, and track orders in real time. Enjoy secure payments, personalized recommendations, and convenient delivery options. Amazon makes online shopping easy, reliable, and accessible from anywhere.",
     "size": 245,
     "reviews": 652480,
     "ratingAvg": 4.5,
@@ -202,13 +197,12 @@
       { "name": "5 star", "count": 501880 }
     ]
   },
-
   {
     "id": 12,
     "image": "https://techcrunch.com/wp-content/uploads/2018/09/uber_app_icon.jpg",
     "title": "Uber",
     "companyName": "Uber Technologies, Inc.",
-    "description": "Uber is a reliable ride-hailing platform that connects passengers with nearby drivers in minutes. Request a ride, track your driver in real time, and reach your destination safely and comfortably. Choose from multiple ride options depending on your needs and budget. With built-in safety features, upfront pricing, and seamless payment methods, Uber provides a convenient transportation solution in cities worldwide.",
+    "description": "Uber is a convenient ride-hailing application that connects passengers with nearby drivers in minutes. Request a ride, track your driver in real time, and reach your destination safely and comfortably. Choose from multiple ride options depending on your needs and budget. With secure payment options and built-in safety features, Uber provides a reliable transportation experience.",
     "size": 205,
     "reviews": 289560,
     "ratingAvg": 4.4,
@@ -220,6 +214,221 @@
       { "name": "4 star", "count": 76300 },
       { "name": "5 star", "count": 199760 }
     ]
+  },
+  {
+    "id": 13,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhFfeddzFVQJMZP5lKAuTGpG2azCOUbiKBiroSih-j4JpArFBLPXX8t5uonCCeA7Yqk7nC6lUJW-MFoZcdljl3sUpXbiGlrzW4VfUL6A8&s=10",
+    "title": "Candy Crush Saga",
+    "companyName": "King.com",
+    "description": "Candy Crush Saga is one of the most popular puzzle games in the world. Match colorful candies to complete levels and unlock new challenges. With thousands of levels, exciting boosters, and daily rewards, the game offers endless fun for players of all ages. Compete with friends, climb leaderboards, and enjoy relaxing gameplay with vibrant graphics and engaging puzzles.",
+    "size": 150,
+    "reviews": 432450,
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 11200 },
+      { "name": "2 star", "count": 6400 },
+      { "name": "3 star", "count": 9500 },
+      { "name": "4 star", "count": 87000 },
+      { "name": "5 star", "count": 330000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://img.icons8.com/color/512/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Zoom is a leading video conferencing platform designed for virtual meetings, webinars, and online collaboration. Connect with colleagues, classmates, or friends through high-quality video and audio calls. Share screens, chat in real time, and collaborate with ease. Zoom is widely used for remote work, online learning, and global communication.",
+    "size": 240,
+    "reviews": 389120,
+    "ratingAvg": 4.2,
+    "downloads": "180M",
+    "ratings": [
+      { "name": "1 star", "count": 8900 },
+      { "name": "2 star", "count": 5300 },
+      { "name": "3 star", "count": 9700 },
+      { "name": "4 star", "count": 82000 },
+      { "name": "5 star", "count": 212220 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://img.icons8.com/color/512/google-drive.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "description": "Google Drive is a secure cloud storage service that allows you to store, access, and share files from anywhere. Upload documents, photos, videos, and presentations, and collaborate in real time using Google Docs, Sheets, and Slides. With automatic backups and powerful sharing options, Google Drive helps individuals and teams stay organized and productive.",
+    "size": 205,
+    "reviews": 492560,
+    "ratingAvg": 4.6,
+    "downloads": "375M",
+    "ratings": [
+      { "name": "1 star", "count": 4800 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 7200 },
+      { "name": "4 star", "count": 84000 },
+      { "name": "5 star", "count": 280460 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://img.icons8.com/color/512/google-maps.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Google Maps helps you navigate the world with accurate maps, real-time traffic updates, and detailed directions. Discover restaurants, businesses, and landmarks near you while exploring new places with confidence. Get turn-by-turn navigation for driving, walking, cycling, or public transport. With user reviews, photos, and location insights, Google Maps makes traveling easier and more efficient.",
+    "size": 230,
+    "reviews": 842110,
+    "ratingAvg": 4.7,
+    "downloads": "900M",
+    "ratings": [
+      { "name": "1 star", "count": 10200 },
+      { "name": "2 star", "count": 6200 },
+      { "name": "3 star", "count": 10100 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 501510 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://img.icons8.com/color/512/reddit.png",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "description": "Reddit is a community-driven platform where users share news, discussions, and entertainment across thousands of interest-based communities called subreddits. Join conversations, upvote content, ask questions, and discover trending topics from around the world. Reddit offers a unique space for open discussions and knowledge sharing.",
+    "size": 160,
+    "reviews": 312450,
+    "ratingAvg": 4.4,
+    "downloads": "190M",
+    "ratings": [
+      { "name": "1 star", "count": 8400 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 9100 },
+      { "name": "4 star", "count": 56000 },
+      { "name": "5 star", "count": 153750 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe03T5XLHpzVKt8UOr_udDd-nVIYmxZjE6Sw&s",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "description": "CapCut is an all-in-one video editing application designed for creators. Trim, cut, and enhance videos with powerful tools, filters, transitions, and special effects. Add music, subtitles, and creative templates to produce professional-quality videos for social media platforms. CapCut makes video editing simple yet powerful for beginners and professionals alike.",
+    "size": 190,
+    "reviews": 742340,
+    "ratingAvg": 4.6,
+    "downloads": "361M",
+    "ratings": [
+      { "name": "1 star", "count": 9400 },
+      { "name": "2 star", "count": 5800 },
+      { "name": "3 star", "count": 9100 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 601040 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://img.icons8.com/color/512/shop--v1.png",
+    "title": "Temu",
+    "companyName": "Temu Inc.",
+    "description": "Temu is a fast-growing online shopping platform offering affordable products across multiple categories including electronics, fashion, beauty, and home essentials. Discover exclusive deals, flash sales, and personalized recommendations. With secure payment options and convenient delivery services, Temu makes online shopping accessible and enjoyable.",
+    "size": 210,
+    "reviews": 312560,
+    "ratingAvg": 4.1,
+    "downloads": "438M",
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 7200 },
+      { "name": "3 star", "count": 16000 },
+      { "name": "4 star", "count": 98000 },
+      { "name": "5 star", "count": 210360 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://img.icons8.com/color/512/facebook-messenger.png",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Messenger is a messaging app that allows you to stay connected with friends and family through instant chats, voice calls, and video calls. Send photos, videos, stickers, and GIFs to make conversations more expressive. Create group chats, share locations, and communicate seamlessly across devices.",
+    "size": 180,
+    "reviews": 432150,
+    "ratingAvg": 4.3,
+    "downloads": "265M",
+    "ratings": [
+      { "name": "1 star", "count": 8100 },
+      { "name": "2 star", "count": 5300 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 77000 },
+      { "name": "5 star", "count": 172750 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://img.icons8.com/color/512/slack.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies, Inc.",
+    "description": "Slack is a team communication and collaboration platform designed for modern workplaces. Organize conversations into channels, share files, integrate tools, and collaborate in real time with teammates. Slack helps teams stay productive and connected, whether working remotely or in the office.",
+    "size": 155,
+    "reviews": 308450,
+    "ratingAvg": 4.3,
+    "downloads": "155M",
+    "ratings": [
+      { "name": "1 star", "count": 5800 },
+      { "name": "2 star", "count": 3300 },
+      { "name": "3 star", "count": 6700 },
+      { "name": "4 star", "count": 59000 },
+      { "name": "5 star", "count": 181650 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://img.icons8.com/color/512/subway-surfers.png",
+    "title": "Subway Surfers",
+    "companyName": "Kiloo",
+    "description": "Subway Surfers is an exciting endless runner game where players dash through subway tracks while dodging trains and collecting coins. Unlock characters, upgrade hoverboards, and explore vibrant city environments. With smooth gameplay and colorful graphics, Subway Surfers offers fast-paced fun for players of all ages.",
+    "size": 150,
+    "reviews": 512780,
+    "ratingAvg": 4.4,
+    "downloads": "300M",
+    "ratings": [
+      { "name": "1 star", "count": 6500 },
+      { "name": "2 star", "count": 3900 },
+      { "name": "3 star", "count": 9200 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 384380 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://img.icons8.com/color/512/discord.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Discord is a voice, video, and text communication platform built for communities and gamers. Join servers to chat with friends, collaborate with teams, or participate in interest-based communities. With voice channels, screen sharing, and customizable bots, Discord provides a powerful communication hub for both social and professional groups.",
+    "size": 185,
+    "reviews": 600230,
+    "ratingAvg": 4.5,
+    "downloads": "280M",
+    "ratings": [
+      { "name": "1 star", "count": 8700 },
+      { "name": "2 star", "count": 5100 },
+      { "name": "3 star", "count": 9500 },
+      { "name": "4 star", "count": 95000 },
+      { "name": "5 star", "count": 390930 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://img.icons8.com/color/512/paypal.png",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings, Inc.",
+    "description": "PayPal is a trusted digital payment platform that allows you to send and receive money securely online. Pay for purchases, transfer funds to friends and family, and manage your finances from a single app. With advanced fraud protection and global acceptance, PayPal provides a safe and convenient way to handle online payments.",
+    "size": 195,
+    "reviews": 402100,
+    "ratingAvg": 4.6,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 6200 },
+      { "name": "2 star", "count": 4100 },
+      { "name": "3 star", "count": 7400 },
+      { "name": "4 star", "count": 78000 },
+      { "name": "5 star", "count": 237400 }
+    ]
   }
-
 ]
