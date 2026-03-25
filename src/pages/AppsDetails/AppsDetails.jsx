@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useContext } from "react";
 import { useLocation } from "react-router";
 import AppChart from "./AppChart";
+import { InstallAppContext } from "../../contexts/InstallAppProvider";
+import toast from "react-hot-toast";
 
 const AppsDetails = () => {
   const location = useLocation();
   const {
+    id,
     title,
     companyName,
     downloads,
@@ -12,7 +15,11 @@ const AppsDetails = () => {
     reviews,
     image,
     description,
+    size,
   } = location.state;
+
+  const { installedApps, infoStatus, setInfoStatus } =
+    useContext(InstallAppContext);
 
   const calculateAvgRating = (ratings) => {
     if (!ratings || ratings.length === 0) return 0;
@@ -29,6 +36,17 @@ const AppsDetails = () => {
   };
 
   const avgRating = calculateAvgRating(ratings);
+
+  const isInstalled = installedApps.includes(id);
+  const handleInstallApps = () => {
+    if (!isInstalled) {
+      const updatedApps = [...installedApps, id];
+
+      localStorage.setItem("installed_Apps", JSON.stringify(updatedApps));
+      setInfoStatus(!infoStatus);
+      toast.success('Successfully Installed!');
+    }
+  };
 
   return (
     <section className="bg-gray-100">
@@ -80,8 +98,12 @@ const AppsDetails = () => {
           </div>
 
           {/* Button */}
-          <button className="mt-7 bg-[#00D390] hover:bg-[#00eca2] text-white px-5 py-2 rounded-md text-sm font-medium cursor-pointer">
-            Install Now (291 MB)
+          <button
+            disabled={isInstalled}
+            onClick={handleInstallApps}
+            className={`mt-7 ${isInstalled ? "btn" : "bg-[#00D390] hover:bg-[#00eca2]"} text-white px-5 py-2 rounded-md text-sm font-medium cursor-pointer`}
+          >
+            {isInstalled ? "Installed" : "Install Now"} ({size} MB)
           </button>
         </div>
       </div>

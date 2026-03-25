@@ -26,6 +26,8 @@ const AppCard = ({ item }) => {
     });
   };
 
+  
+
   return (
     <div
       onClick={handleDetailsPage}

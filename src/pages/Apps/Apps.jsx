@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from "react";
 import AppCard from "../../components/AppCard";
 import { FaSearch } from "react-icons/fa";
+import LinkBtn from "../../components/LinkBtn";
 
 const Apps = () => {
   const [loading, setLoading] = useState(true);
   const [appData, setAppData] = useState([]);
   const [searchData, setSearchData] = useState([]);
+  const [installedApps, setInstalledApps] = useState([]);
 
   useEffect(() => {
     fetch("/data/appData.json")
@@ -57,15 +59,25 @@ const Apps = () => {
       </div>
 
       {!searchData.length && (
-        <div className="flex justify-center flex-col items-center mb-10">
-          <img className="w-1/5" src="/public/assets/appNotFound.jpg" alt="" />
-          <h5 className="text-4xl">No App Found!</h5>
+        <div className="flex justify-center flex-col items-center my-10 ">
+          <img className="w-1/5" src="/assets/appNotFound.png" alt="" />
+          <h5 className="text-4xl mt-4">OPPS!! APP NOT FOUND</h5>
+          <p className="my-3 text-gray-500">
+            The App you are requesting is not found on our system. please try
+            another apps
+          </p>
+          <LinkBtn url="/" text="Go Back!" />
         </div>
       )}
 
       <div className="container mx-auto grid grid-cols-4 gap-5 mb-10">
         {searchData.map((item, idx) => (
-          <AppCard item={item} key={idx} />
+          <AppCard
+            installedApps={installedApps}
+            setInstalledApps={setInstalledApps}
+            item={item}
+            key={idx}
+          />
         ))}
       </div>
     </div>
