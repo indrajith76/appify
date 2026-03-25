@@ -22,7 +22,7 @@ const TrendingApps = () => {
         Explore All Trending Apps on the Market developed by us
       </p>
 
-      <div className="container mx-auto grid grid-cols-4 gap-5">
+      <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 px-5 lg:px-0">
         {appData.map((item, idx) => (
           <AppCard item={item} key={idx} />
         ))}

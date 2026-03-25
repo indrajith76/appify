@@ -26,15 +26,15 @@ const AppCard = ({ item }) => {
     });
   };
 
-  
-
   return (
     <div
       onClick={handleDetailsPage}
-      className="bg-gray-100 p-4 rounded-xl w-full shadow-sm hover:cursor-pointer"
+      className="bg-white p-4 rounded-xl w-full shadow-sm hover:cursor-pointer border border-gray-100"
     >
       {/* Image */}
-      <img src={item.image} alt={item.title} className="mb-4" />
+      <div className="bg-[#D9D9D9] rounded-lg md:h-72 flex items-center justify-center mb-2">
+        <img src={item.image} alt={item.title} />
+      </div>
 
       {/* Title */}
       <h2 className="text-lg font-semibold text-gray-800 mb-4">{item.title}</h2>

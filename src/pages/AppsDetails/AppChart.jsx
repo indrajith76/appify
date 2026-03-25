@@ -1,4 +1,4 @@
-import React from "react";
+
 import { BarChart, Bar, XAxis, YAxis, ResponsiveContainer } from "recharts";
 
 const AppChart = ({ data }) => {
@@ -8,7 +8,7 @@ const AppChart = ({ data }) => {
     <div className="container mx-auto w-full h-75 border-t border-gray-300 rounded-lg">
       <h2 className="text-lg font-semibold mb-4">Ratings</h2>
 
-      <ResponsiveContainer width="100%" height="80%">
+      <ResponsiveContainer width={"100%"} height="80%">
         <BarChart layout="vertical" data={sortedData}>
           {/* X axis (numbers) */}
           <XAxis
