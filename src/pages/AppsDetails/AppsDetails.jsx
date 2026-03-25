@@ -44,21 +44,18 @@ const AppsDetails = () => {
 
       localStorage.setItem("installed_Apps", JSON.stringify(updatedApps));
       setInfoStatus(!infoStatus);
-      toast.success('Successfully Installed!');
+      toast.success("Successfully Installed!");
     }
   };
 
   return (
-    <section className="bg-gray-100">
-      <div className="container mx-auto flex items-center gap-6 py-20">
-        {/* Icon */}
-        <div className="w-[25%] bg-white flex items-center justify-center rounded-lg">
+    <section className="bg-gray-100 px-5 lg:px-0">
+      <div className="container mx-auto flex flex-col lg:flex-row items-center gap-6 py-20">
+        <div className="w-[50%] lg:w-[25%] bg-white flex items-center justify-center rounded-lg">
           <img src={image} alt="App Icon" className="w-full h-full" />
         </div>
 
-        {/* Content */}
-        <div className="w-[75%]">
-          {/* Title */}
+        <div className="w-full lg:w-[75%] text-center lg:text-start">
           <h2 className="text-3xl mb-2 font-semibold text-gray-800">{title}</h2>
           <p className="text-sm text-gray-500 mt-1">
             Developed by{" "}
@@ -67,9 +64,7 @@ const AppsDetails = () => {
 
           <hr className="my-7 border-0.5 border-gray-300" />
 
-          {/* Stats */}
-          <div className="flex items-center gap-10">
-            {/* Downloads */}
+          <div className="flex items-center justify-between lg:justify-start lg:gap-10">
             <div className="text-center">
               <img
                 className="mx-auto"
@@ -77,27 +72,28 @@ const AppsDetails = () => {
                 alt=""
               />
               <p className="text-gray-500 my-2">Downloads</p>
-              <p className="font-bold text-4xl text-[#001931]">{downloads}</p>
+              <p className="font-bold text-2xl lg:text-4xl text-[#001931]">
+                {downloads}
+              </p>
             </div>
 
-            {/* Ratings */}
             <div className="text-center">
               <img className="mx-auto" src="/assets/icon-ratings.png" alt="" />
               <p className="text-gray-500 my-2">Average Ratings</p>
-              <p className="font-bold text-4xl text-[#001931]">{avgRating}</p>
+              <p className="font-bold text-2xl lg:text-4xl text-[#001931]">
+                {avgRating}
+              </p>
             </div>
 
-            {/* Reviews */}
             <div className="text-center">
               <img className="mx-auto" src="/assets/icon-review.png" alt="" />
               <p className="text-gray-500 my-2">Total Reviews</p>
-              <p className="font-bold text-4xl text-[#001931]">
+              <p className="font-bold text-2xl lg:text-4xl text-[#001931]">
                 {reviews >= 1000 ? (reviews / 1000).toFixed(1) + "k" : reviews}
               </p>
             </div>
           </div>
 
-          {/* Button */}
           <button
             disabled={isInstalled}
             onClick={handleInstallApps}
