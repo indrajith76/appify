@@ -43,7 +43,7 @@ const Apps = () => {
         Explore All Apps on the Market developed by us. We code for Millions
       </p>
 
-      <div className="mx-auto container flex items-center justify-between mb-5">
+      <div className="mx-auto container flex items-center justify-between mb-5 px-5 lg:px-0">
         <p className="text-xl font-semibold">
           ({searchData.length}) Apps Found
         </p>
@@ -70,7 +70,7 @@ const Apps = () => {
         </div>
       )}
 
-      <div className="container mx-auto grid grid-cols-4 gap-5 mb-10">
+      <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mb-10 px-5 lg:px-0">
         {searchData.map((item, idx) => (
           <AppCard
             installedApps={installedApps}
