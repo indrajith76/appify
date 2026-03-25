@@ -85,10 +85,10 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1">{links}</ul>
         </div>
         <div className="navbar-end">
-          <a className="btn bg-linear-to-br from-purple-900 to-purple-500 text-white">
+          <Link to="https://github.com/indrajith76" target="_blank" className="btn bg-linear-to-br from-purple-900 to-purple-500 text-white">
             <img src="/assets/github.png" alt="" />
             Contribute
-          </a>
+          </Link>
         </div>
       </div>
     </section>

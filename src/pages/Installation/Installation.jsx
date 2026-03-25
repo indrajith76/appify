@@ -48,11 +48,11 @@ const Installation = () => {
           <LinkBtn url="/" text="Go Back!" />
         </div>
       ) : (
-        <div className="flex flex-col">
-          <h3 className="text-5xl font-bold text-[#001931] mt-20 text-center">
+        <div className="flex flex-col px-5 lg:px-0">
+          <h3 className="text-3xl lg:text-5xl font-bold text-[#001931] mt-20 text-center">
             Your Installed Apps
           </h3>
-          <p className="text-center text-[#627382] text-xl mt-4 mb-10">
+          <p className="text-center text-[#627382] lg:text-xl mt-4 mb-10">
             Explore All Trending Apps on the Market developed by us
           </p>
 
@@ -71,7 +71,7 @@ const Installation = () => {
             </select>
           </div>
 
-          <div className="container mx-auto mb-10">
+          <div className="container mx-auto mb-10 ">
             {installedAppsList.map((app) => (
               <InstalledAppsCard key={app.id} app={app} />
             ))}
