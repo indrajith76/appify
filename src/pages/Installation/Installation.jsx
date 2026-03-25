@@ -2,6 +2,7 @@ import { useContext, useEffect, useState } from "react";
 import { InstallAppContext } from "../../contexts/InstallAppProvider";
 import InstalledAppsCard from "./InstalledAppsCard";
 import LinkBtn from "../../components/LinkBtn";
+import AppNotFound from "../../components/AppNotFound";
 
 const Installation = () => {
   const [allApps, setAllApps] = useState([]);
@@ -38,15 +39,7 @@ const Installation = () => {
   return (
     <>
       {!installedApps.length ? (
-        <div className="flex justify-center flex-col items-center my-10 h-[80vh]">
-          <img className="w-1/5" src="/assets/appNotFound.png" alt="" />
-          <h5 className="text-4xl mt-4">OPPS!! APP NOT FOUND</h5>
-          <p className="my-3 text-gray-500">
-            The App you are requesting is not found on our system. please try
-            another apps
-          </p>
-          <LinkBtn url="/" text="Go Back!" />
-        </div>
+        <AppNotFound />
       ) : (
         <div className="flex flex-col px-5 lg:px-0">
           <h3 className="text-3xl lg:text-5xl font-bold text-[#001931] mt-20 text-center">

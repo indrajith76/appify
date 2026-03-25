@@ -31,23 +31,18 @@ const AppCard = ({ item }) => {
       onClick={handleDetailsPage}
       className="bg-white p-4 rounded-xl w-full shadow-sm hover:cursor-pointer border border-gray-100"
     >
-      {/* Image */}
-      <div className="bg-[#D9D9D9] rounded-lg md:h-72 flex items-center justify-center mb-2">
+      <div className="bg-[#d9d9d983] rounded-lg md:h-72 flex items-center justify-center mb-2">
         <img src={item.image} alt={item.title} />
       </div>
 
-      {/* Title */}
       <h2 className="text-lg font-semibold text-gray-800 mb-4">{item.title}</h2>
 
-      {/* Footer */}
       <div className="flex justify-between items-center">
-        {/* Download */}
         <div className="flex items-center gap-2 bg-green-100 text-green-600 px-3 py-1 rounded-md text-sm">
           <img src="/assets/icon-downloads.png" className="w-3" alt="" />
           <span>{item.downloads}</span>
         </div>
 
-        {/* Rating */}
         <div className="flex items-center gap-2 bg-orange-100 text-orange-500 px-3 py-1 rounded-md text-sm">
           <img src="/assets/icon-ratings.png" className="w-3" alt="" />
           <span>{avgRating}</span>
